@@ -33,6 +33,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
 Summary: Configuring Roles in osTicket
+
 Log in as Admin
 
 Open your web browser and log in to the osTicket admin panel. (http://localhost/osTicket/scp/login.php)
@@ -61,7 +62,25 @@ Click Add Role to save the changes.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Summary: Configuring Departments in osTicket
+
+Access the Admin Panel
+
+Log in to the osTicket Admin Panel.
+
+Navigate to Departments
+
+Go to Agents → Departments.
+
+Click Add New Department.
+
+Create a New Department
+
+Parent Department: Select Support.
+
+Department Name: Enter SysAdmins.
+
+Scroll down and click Create Department.
 </p>
 <br />
 
