@@ -116,7 +116,65 @@ Ensure the box is unchecked so that unregistered users can submit tickets.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Summary: Configuring Agents in osTicket
+
+Access the Admin Panel
+
+Log in to the osTicket Admin Panel.
+
+Navigate to Agents → Add New Agent.
+
+Create Agent: Jane Doe
+
+Full Name: Jane Doe
+
+Email: (Make up an email, e.g., jane.doe@example.com)
+
+Username: jane
+
+Password: Password1
+
+Uncheck the box for "Send the agent a password reset email".
+
+Assign Jane’s Permissions
+
+Access Tab:
+
+Department: Support / SysAdmins
+
+Role: Supreme Admin
+
+Teams Tab:
+
+Assign Jane to Online Banking team.
+
+Click Create Agent.
+
+Create Agent: John Doe
+
+Full Name: John Doe
+
+Email: (Make up an email, e.g., john.doe@example.com)
+
+Username: john
+
+Password: Password1
+
+Uncheck the box for "Send the agent a password reset email".
+
+Assign John’s Permissions
+
+Access Tab:
+
+Department: Support
+
+Role: View Only
+
+Teams Tab:
+
+Assign John to Online Banking team.
+
+Click Create Agent.
 </p>
 <br />
 
