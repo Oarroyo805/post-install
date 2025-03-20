@@ -202,7 +202,37 @@ Click Add User to save.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Summary: Configuring SLAs in osTicket
+
+Access the Admin Panel
+
+Navigate to Manage → SLA Plans.
+
+Create SLA Plans
+
+Sev-A:
+
+Grace Period: 1 hour
+
+Schedule: 24/7
+
+Click Add Plan
+
+Sev-B:
+
+Grace Period: 4 hours
+
+Schedule: 24/7
+
+Click Add Plan
+
+Sev-C:
+
+Grace Period: 8 hours
+
+Schedule: Monday-Friday, 8 AM - 5 PM
+
+Click Add Plan
 </p>
 <br />
 
