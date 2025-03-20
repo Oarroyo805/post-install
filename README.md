@@ -240,7 +240,45 @@ Click Add Plan
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Summary: Configuring Help Topics in osTicket
+
+Access the Admin Panel
+
+Navigate to Manage → Help Topics.
+
+Click Add New Help Topic to create a new topic.
+
+Create Help Topics
+
+Business Critical Outage
+
+Parent Topic: Report a Problem
+
+Click Add
+
+Personal Computer Issues
+
+Parent Topic: Report a Problem
+
+Click Add
+
+Equipment Request
+
+Parent Topic: General Inquiry
+
+Click Add
+
+Password Reset
+
+Parent Topic: Report a Problem
+
+Click Add
+
+Other
+
+Parent Topic: General Inquiry
+
+Click Add
 </p>
 <br />
 
