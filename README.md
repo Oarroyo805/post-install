@@ -136,6 +136,8 @@ Password: Password1
 
 Uncheck the box for "Send the agent a password reset email".
 
+Uncheck the box for "Require password change at next login".
+
 Assign Jane’s Permissions
 
 Access Tab:
@@ -161,6 +163,8 @@ Username: john
 Password: Password1
 
 Uncheck the box for "Send the agent a password reset email".
+
+Uncheck the box for "Require password change at next login".
 
 Assign John’s Permissions
 
