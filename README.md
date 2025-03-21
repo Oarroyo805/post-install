@@ -70,7 +70,9 @@ Navigate to Departments
 
 Go to Agents → Departments.
 
-Click Add New Department.
+Before adding a new department, delete the maintenance department. 
+
+Then click Add New Department.
 
 Create a New Department
 
