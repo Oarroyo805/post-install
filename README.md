@@ -168,7 +168,7 @@ Access Tab:
 
 Department: Support
 
-Role: View Only
+Role: All Access
 
 Teams Tab:
 
