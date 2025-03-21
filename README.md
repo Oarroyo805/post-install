@@ -29,7 +29,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![1](https://github.com/user-attachments/assets/ae91cddc-e847-4832-a50a-7a07e73b3800)
+
 </p>
 <p>
 Summary: Configuring Roles in osTicket
@@ -59,7 +61,9 @@ Click Add Role to save the changes.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![2](https://github.com/user-attachments/assets/c46831e8-1574-4f34-a6ac-f2ee25d26ef3)
+
 </p>
 <p>
 Summary: Configuring Departments in osTicket
@@ -85,7 +89,9 @@ Scroll down and click Create Department.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![3](https://github.com/user-attachments/assets/66ea41ce-1152-4793-a324-c7bd6b39e1a1)
+
 </p>
 <p>
 Summary: Configuring Teams and User Ticket Settings in osTicket
@@ -113,7 +119,9 @@ Ensure the box is unchecked so that unregistered users can submit tickets.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![4](https://github.com/user-attachments/assets/1e225f4b-7bbf-4828-9de9-390989e4f40a)
+
 </p>
 <p>
 Summary: Configuring Agents in osTicket
@@ -181,7 +189,9 @@ Click Create Agent.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![5](https://github.com/user-attachments/assets/81ac7375-56b4-4a17-bc28-effc581e3be1)
+
 </p>
 <p>
 Summary: Configuring Users in osTicket
@@ -201,7 +211,9 @@ Click Add User to save.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![6](https://github.com/user-attachments/assets/740e835b-e698-409a-a4e9-be34edaad65c)
+
 </p>
 <p>
 Summary: Configuring SLAs in osTicket
@@ -239,7 +251,9 @@ Click Add Plan
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![7](https://github.com/user-attachments/assets/41082487-8d22-41cc-a5be-23c76e5881c6)
+
 </p>
 <p>
 Summary: Configuring Help Topics in osTicket
