@@ -74,7 +74,7 @@ Click Add New Department.
 
 Create a New Department
 
-Parent Department: Select Support.
+Parent Department: Top Level Department.
 
 Department Name: Enter SysAdmins.
 
