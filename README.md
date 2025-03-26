@@ -34,7 +34,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-Summary: Configuring Roles in osTicket
+Step 1 : Configuring Roles in osTicket
 
 Log in as Admin
 
@@ -66,7 +66,7 @@ Click Add Role to save the changes.
 
 </p>
 <p>
-Summary: Configuring Departments in osTicket
+Step 2 : Configuring Departments in osTicket
 
 Access the Admin Panel
 
@@ -94,7 +94,7 @@ Scroll down and click Create Department.
 
 </p>
 <p>
-Summary: Configuring Teams and User Ticket Settings in osTicket
+Step 3 : Configuring Teams and User Ticket Settings in osTicket
 
 To create a team
 
@@ -124,7 +124,7 @@ Ensure the box is unchecked so that unregistered users can submit tickets.
 
 </p>
 <p>
-Summary: Configuring Agents in osTicket
+Step 4 : Configuring Agents in osTicket
 
 Access the Admin Panel
 
@@ -194,7 +194,7 @@ Click Create Agent.
 
 </p>
 <p>
-Summary: Configuring Users in osTicket
+Step 5 : Configuring Users in osTicket
 
 Access the Agent Panel
 
@@ -216,7 +216,7 @@ Click Add User to save.
 
 </p>
 <p>
-Summary: Configuring SLAs in osTicket
+Step 6 : Configuring SLAs in osTicket
 
 Access the Admin Panel
 
@@ -256,7 +256,7 @@ Click Add Plan
 
 </p>
 <p>
-Summary: Configuring Help Topics in osTicket
+Step 7 : Configuring Help Topics in osTicket
 
 Access the Admin Panel
 
